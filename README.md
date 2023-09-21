@@ -9,3 +9,5 @@ My name is Irina, I live in Greenwich and I'm glad to be on this coding journey.
 - 🌱 I’m currently learning Python and brushing up on C++ and Java
 - 💬 Ask me about my coding history and how it all started.
 - 😄 Pronouns: she/her
+
+![](https://komarev.com/ghpvc/?username=irina-andrei)
