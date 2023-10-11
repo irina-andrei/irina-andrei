@@ -10,4 +10,4 @@ My name is Irina, I live in Greenwich and I'm glad to be on this coding journey.
 - 💬 Ask me about my coding history and how it all started.
 - 😄 Pronouns: she/her
 
-![](https://komarev.com/ghpvc/?username=irina-andrei&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=irina-andrei&style=flat-square)
